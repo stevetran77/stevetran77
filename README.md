@@ -1,22 +1,38 @@
-## Hi there 👋
+## Hi there 👋, I'm Cầu (or you can call me Steve)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+🎯 I'm passionate about solving problems with data and building data-driven systems to empower business decisions.
 
-<!--
-**stevetran77/stevetran77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me:
 
-Here are some ideas to get you started:
+<ul>
+  <li>🔍 Currently working as a <strong>BI Analyst</strong></li>
+  <li>🚀 Learning and upskilling in <strong>Big Data Engineering</strong></li>
+  <li>🌍 Open for <strong>freelance or remote opportunities</strong> in <strong>Data Analyst</strong> or <strong>Data Engineer</strong></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>📫 Reach me at:</strong><br>
+📧 Email: <a href="mailto:ngoccau2911@gmail.com">ngoccau2911@gmail.com</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/cau-tran99/" target="_blank">linkedin.com/in/cau-tran99</a>
+</p>
+
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LookML-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+
+
+### 📊 GitHub Stats
+
+![Cau's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevetran77&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)
