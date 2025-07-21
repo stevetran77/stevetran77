@@ -7,6 +7,7 @@
 <ul>
   <li>🔍 Currently working as a <strong>BI Analyst</strong></li>
   <li>🚀 Learning and upskilling in <strong>Big Data Engineering</strong></li>
+  <li>📖 Current Learning : Docker, Airflow, Spark </strong></li>
   <li>🌍 Open for <strong>freelance or remote opportunities</strong> in <strong>Data Analyst</strong> or <strong>Data Engineer</strong></li>
 </ul>
 
