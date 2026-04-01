@@ -31,9 +31,3 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
-
-
-
-### 📊 GitHub Stats
-
-![Cau's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevetran77&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia)
