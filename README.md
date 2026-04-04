@@ -6,7 +6,7 @@
 
 <ul>
   <li>🔍 Currently working as a <strong>Data Engineer & BI Engineer</strong></li>
-  <li>🌍 Open for <strong>freelance or remote opportunities</strong> in <strong>Data Analyst</strong> or <strong>Data Engineer</strong></li>
+  <li>🌍 Open for <strong>freelance or remote opportunities</strong> in <strong>Data Engineer</strong> or <strong>Analytic Engineer</strong></li>
 </ul>
 
 <p><strong>📫 Reach me at:</strong><br>
